@@ -1,0 +1,38 @@
+Wanderer:
+	Story Outline:
+		- Introduction (work in Bethany's voice more) @writing @done(2011-04-06)
+			This should be a useful introduction to, among other things, Bethany's character.  She seems to be fairly clever, and more than a little bit cynical; she has a bad habit of snark.
+			It also provides some information on a few of the principal characters, particularly Bran.  It should be remembered that Bran's primary purpose is to keep people accepting the status quo and not looking to hard beneath the surface.
+			- The Goblin Market (more foreshadowing—should I cut Corin or not?) @writing @done(2011-04-06)
+				Ended up cutting Corin.
+			- Queen Mab @writing @done(2011-04-06)
+			- Bran, the tour guide (try to make him slightly more sinister in a way that isn't directly threatening?) @writing
+			- Going to sleep @writing @done(2011-04-06)
+			- The dream @editing
+		- First Day @editing
+			- The Tour @writing
+				Here Bran should be unfailingly helpful and polite to Bethany; to others, particularly servants, he is not so nice, as with the adage that someone who is nice to you but unkind to the waiter is not a nice person.  Depending on how the player reacts, he may even flirt with Bethany a bit.
+				- They visit the Royal Gallery, which collects famous works from Faerie and beyond; this is really the first mention of the "above world", in fact, in that some of the collection is from human painters. @editing @done(2011-04-06)
+					The visit is brief, but as they arrive a couple of servitors are moving some covered paintings from the hall.  Bran says that they're simply being rotated out of the featured display. 
+					He also reprimands them for not having their job done on time, before the Very Important People arrived, obvs
+				- Bran tries to pass by the library; it's up to you whether you ask about it or not. @writing @done(2011-04-06)
+					This is somewhat important, since knowledge and the ability to think for one's self is what Bran is trying to suppress.  He'll dismiss it as unimportant and full of irrelevant things if asked.  If you push him to go visit it, he'll try and get you to leave ASAP.
+					This also may have something to do with the fact that the librarian is on to him.
+				- They stop at the Royal Menagerie, which is really kind of creepy @writing @done(2011-04-06)
+				- Next stop: the garden.  Aislin, at this time, is not present, although her journal is; Bran flips through it and picks it up to take with him. @writing
+					- At his first opportunity he throws it away in a bin or something.  You may or may not pick it up. @writing
+				- Last stop: the lawn, where all the socializing goes on. @writing
+					This section needs to be way way better than it is currently.  Probably full rewrite.
+					This also happens to be where one gets food, outside of normal mealtimes, as it's sort of a giant, constantly running buffet-slash-ball.
+					- This is boring.  Make it less so.
+					- Fruit trees?
+					- Dryads!
+					- The food is kind of weird, in that it all tastes the same, despite looking like different things.
+				- The tour, it is over!  Bethany is encouraged to enjoy herself. @writing
+					The people there are somewhat curious of her, but none directly approach her.  Wherever she goes, though, people are whispering.
+					- This is where the first meeting with Karasu happens
+	Add writing to code:
+		- Library Tour
+		- Menagerie Tour
+		- Garden Tour
+		- Dream Sequence
